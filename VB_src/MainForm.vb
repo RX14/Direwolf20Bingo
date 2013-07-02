@@ -13,16 +13,20 @@
         Dim GridX As Decimal = Math.Floor(((e.X - 61) / 96) + 1)
         Dim GridY As Decimal = Math.Floor(((e.Y - 287) / 96) + 1)
 
-        'Set to 0 if out of bounds
-        If 1 > GridX Or GridX > 5 Then
-            GridX = 0
-        End If
-        If 1 > GridY Or GridY > 5 Then
-            GridY = 0
-        End If
-
         'Write GridPosition to Console
         Console.WriteLine("Grid Co-Ordinates: " + GridY.ToString + "," + GridX.ToString)
+
+        'Set to 0 if out of bounds
+        If 1 > GridX Or GridX > 5 Then
+            Console.WriteLine("Out of bounds, Exiting...")
+            Exit Sub
+        End If
+        If 1 > GridY Or GridY > 5 Then
+            Console.WriteLine("Out of bounds, Exiting...")
+            Exit Sub
+        End If
+
+
 
         Me.Controls("B" + GridY.ToString + GridX.ToString).Show()
     End Sub
