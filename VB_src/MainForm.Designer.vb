@@ -78,7 +78,7 @@ Partial Class MainForm
         'B11
         '
         Me.B11.BackColor = System.Drawing.Color.Transparent
-        Me.B11.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B11.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B11.Location = New System.Drawing.Point(61, 287)
         Me.B11.Name = "B11"
         Me.B11.Size = New System.Drawing.Size(96, 96)
@@ -89,7 +89,7 @@ Partial Class MainForm
         'B12
         '
         Me.B12.BackColor = System.Drawing.Color.Transparent
-        Me.B12.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B12.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B12.Location = New System.Drawing.Point(157, 287)
         Me.B12.Name = "B12"
         Me.B12.Size = New System.Drawing.Size(96, 96)
@@ -100,7 +100,7 @@ Partial Class MainForm
         'B13
         '
         Me.B13.BackColor = System.Drawing.Color.Transparent
-        Me.B13.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B13.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B13.Location = New System.Drawing.Point(253, 287)
         Me.B13.Name = "B13"
         Me.B13.Size = New System.Drawing.Size(96, 96)
@@ -111,7 +111,7 @@ Partial Class MainForm
         'B14
         '
         Me.B14.BackColor = System.Drawing.Color.Transparent
-        Me.B14.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B14.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B14.Location = New System.Drawing.Point(349, 287)
         Me.B14.Name = "B14"
         Me.B14.Size = New System.Drawing.Size(96, 96)
@@ -122,7 +122,7 @@ Partial Class MainForm
         'B15
         '
         Me.B15.BackColor = System.Drawing.Color.Transparent
-        Me.B15.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B15.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B15.Location = New System.Drawing.Point(445, 287)
         Me.B15.Name = "B15"
         Me.B15.Size = New System.Drawing.Size(96, 96)
@@ -133,7 +133,7 @@ Partial Class MainForm
         'B21
         '
         Me.B21.BackColor = System.Drawing.Color.Transparent
-        Me.B21.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B21.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B21.Location = New System.Drawing.Point(61, 383)
         Me.B21.Name = "B21"
         Me.B21.Size = New System.Drawing.Size(96, 96)
@@ -144,7 +144,7 @@ Partial Class MainForm
         'B22
         '
         Me.B22.BackColor = System.Drawing.Color.Transparent
-        Me.B22.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B22.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B22.Location = New System.Drawing.Point(157, 383)
         Me.B22.Name = "B22"
         Me.B22.Size = New System.Drawing.Size(96, 96)
@@ -155,7 +155,7 @@ Partial Class MainForm
         'B23
         '
         Me.B23.BackColor = System.Drawing.Color.Transparent
-        Me.B23.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B23.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B23.Location = New System.Drawing.Point(253, 383)
         Me.B23.Name = "B23"
         Me.B23.Size = New System.Drawing.Size(96, 96)
@@ -166,7 +166,7 @@ Partial Class MainForm
         'B24
         '
         Me.B24.BackColor = System.Drawing.Color.Transparent
-        Me.B24.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B24.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B24.Location = New System.Drawing.Point(349, 383)
         Me.B24.Name = "B24"
         Me.B24.Size = New System.Drawing.Size(96, 96)
@@ -177,7 +177,7 @@ Partial Class MainForm
         'B25
         '
         Me.B25.BackColor = System.Drawing.Color.Transparent
-        Me.B25.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B25.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B25.Location = New System.Drawing.Point(445, 383)
         Me.B25.Name = "B25"
         Me.B25.Size = New System.Drawing.Size(96, 96)
@@ -188,7 +188,7 @@ Partial Class MainForm
         'B31
         '
         Me.B31.BackColor = System.Drawing.Color.Transparent
-        Me.B31.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B31.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B31.Location = New System.Drawing.Point(61, 479)
         Me.B31.Name = "B31"
         Me.B31.Size = New System.Drawing.Size(96, 96)
@@ -199,7 +199,7 @@ Partial Class MainForm
         'B32
         '
         Me.B32.BackColor = System.Drawing.Color.Transparent
-        Me.B32.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B32.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B32.Location = New System.Drawing.Point(157, 479)
         Me.B32.Name = "B32"
         Me.B32.Size = New System.Drawing.Size(96, 96)
@@ -210,7 +210,7 @@ Partial Class MainForm
         'B33
         '
         Me.B33.BackColor = System.Drawing.Color.Transparent
-        Me.B33.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B33.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B33.Location = New System.Drawing.Point(253, 479)
         Me.B33.Name = "B33"
         Me.B33.Size = New System.Drawing.Size(96, 96)
@@ -221,7 +221,7 @@ Partial Class MainForm
         'B34
         '
         Me.B34.BackColor = System.Drawing.Color.Transparent
-        Me.B34.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B34.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B34.Location = New System.Drawing.Point(349, 479)
         Me.B34.Name = "B34"
         Me.B34.Size = New System.Drawing.Size(96, 96)
@@ -232,7 +232,7 @@ Partial Class MainForm
         'B35
         '
         Me.B35.BackColor = System.Drawing.Color.Transparent
-        Me.B35.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B35.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B35.Location = New System.Drawing.Point(445, 479)
         Me.B35.Name = "B35"
         Me.B35.Size = New System.Drawing.Size(96, 96)
@@ -243,7 +243,7 @@ Partial Class MainForm
         'B41
         '
         Me.B41.BackColor = System.Drawing.Color.Transparent
-        Me.B41.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B41.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B41.Location = New System.Drawing.Point(61, 575)
         Me.B41.Name = "B41"
         Me.B41.Size = New System.Drawing.Size(96, 96)
@@ -254,7 +254,7 @@ Partial Class MainForm
         'B42
         '
         Me.B42.BackColor = System.Drawing.Color.Transparent
-        Me.B42.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B42.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B42.Location = New System.Drawing.Point(157, 575)
         Me.B42.Name = "B42"
         Me.B42.Size = New System.Drawing.Size(96, 96)
@@ -265,7 +265,7 @@ Partial Class MainForm
         'B43
         '
         Me.B43.BackColor = System.Drawing.Color.Transparent
-        Me.B43.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B43.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B43.Location = New System.Drawing.Point(253, 575)
         Me.B43.Name = "B43"
         Me.B43.Size = New System.Drawing.Size(96, 96)
@@ -276,7 +276,7 @@ Partial Class MainForm
         'B44
         '
         Me.B44.BackColor = System.Drawing.Color.Transparent
-        Me.B44.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B44.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B44.Location = New System.Drawing.Point(349, 575)
         Me.B44.Name = "B44"
         Me.B44.Size = New System.Drawing.Size(96, 96)
@@ -287,7 +287,7 @@ Partial Class MainForm
         'B45
         '
         Me.B45.BackColor = System.Drawing.Color.Transparent
-        Me.B45.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B45.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B45.Location = New System.Drawing.Point(445, 575)
         Me.B45.Name = "B45"
         Me.B45.Size = New System.Drawing.Size(96, 96)
@@ -298,7 +298,7 @@ Partial Class MainForm
         'B51
         '
         Me.B51.BackColor = System.Drawing.Color.Transparent
-        Me.B51.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B51.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B51.Location = New System.Drawing.Point(61, 671)
         Me.B51.Name = "B51"
         Me.B51.Size = New System.Drawing.Size(96, 96)
@@ -309,7 +309,7 @@ Partial Class MainForm
         'B52
         '
         Me.B52.BackColor = System.Drawing.Color.Transparent
-        Me.B52.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B52.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B52.Location = New System.Drawing.Point(157, 671)
         Me.B52.Name = "B52"
         Me.B52.Size = New System.Drawing.Size(96, 96)
@@ -320,7 +320,7 @@ Partial Class MainForm
         'B53
         '
         Me.B53.BackColor = System.Drawing.Color.Transparent
-        Me.B53.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B53.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B53.Location = New System.Drawing.Point(253, 671)
         Me.B53.Name = "B53"
         Me.B53.Size = New System.Drawing.Size(96, 96)
@@ -331,7 +331,7 @@ Partial Class MainForm
         'B54
         '
         Me.B54.BackColor = System.Drawing.Color.Transparent
-        Me.B54.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B54.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B54.Location = New System.Drawing.Point(349, 671)
         Me.B54.Name = "B54"
         Me.B54.Size = New System.Drawing.Size(96, 96)
@@ -342,7 +342,7 @@ Partial Class MainForm
         'B55
         '
         Me.B55.BackColor = System.Drawing.Color.Transparent
-        Me.B55.Image = Global.WindowsApplication1.My.Resources.Resources.red_line_with_transparent_background_hi
+        Me.B55.Image = Global.Direwolf20Bingo.My.Resources.Resources.red_line_with_transparent_background_hi
         Me.B55.Location = New System.Drawing.Point(445, 671)
         Me.B55.Name = "B55"
         Me.B55.Size = New System.Drawing.Size(96, 96)
@@ -365,7 +365,7 @@ Partial Class MainForm
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
-        Me.BackgroundImage = Global.WindowsApplication1.My.Resources.Resources.EUZb1kr___Imgur
+        Me.BackgroundImage = Global.Direwolf20Bingo.My.Resources.Resources.EUZb1kr___Imgur
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(600, 827)
         Me.Controls.Add(Me.Label1)
